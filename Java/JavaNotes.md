@@ -195,6 +195,8 @@ System.out.println(i+" X "+j+" = "+(i*j));
 ```
 
 ## Buffered Reader
+
+```java
 import java.io.*;
 public class BuffReader
 {
@@ -209,7 +211,7 @@ br.close();
 r.close();
 }
 }
-
+```
 
 
 
